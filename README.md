@@ -1,3 +1,9 @@
+[task1_cleaned.xlsx](https://github.com/user-attachments/files/20625705/task1_cleaned.xlsx)
+[task1.xlsx](https://github.com/user-attachments/files/20625699/task1.xlsx)
+
+
+https://github.com/user-attachments/assets/369a6743-8a3f-4736-984c-5cda75c84a4d
+
 # 🚀 FUTURE_DS_01: Social Media Trend Analysis  
 
 ## 🏆 Internship Program: Future Interns - Data Science & Analytics  
